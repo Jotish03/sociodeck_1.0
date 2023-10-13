@@ -14,7 +14,7 @@ const ComingSoon = () => {
   return (
     <div className="min-h-screen flex items-center justify-center">
       <div className="max-w-3xl">
-        <img src="./images/logo.jpg" alt="" className="mb-[-20px] inline-block h-64 w-64 flex-none object-cover" />
+        <img src="./images/logo.webp" alt="" className="mb-[-20px] inline-block h-64 w-64 flex-none object-cover" />
         <div className="text-center">
           <h1 className="text-[#000000] font-bold mb-4 text-4xl md:text-6xl">Coming Soon</h1>
           <div className="mb-5 md:mb-6 lg:mb-8">
